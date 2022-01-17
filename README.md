@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VB6Enjoyer
 - 👀 I’m interested in music, videogames, economics and other nerdy things.
-- 🌱 I’m currently learning Java, MySQL, web development and Git.
+- 🌱 I’m currently learning Java, MySQL, JavaScript and React.
 - 💞️ I’m looking to collaborate on not much at this moment.
 - 📫 How to reach me: Mux#2704 (Discord)
 
