@@ -9,6 +9,7 @@ Check some of my projects:
 * [React-based Web News App with AI-powered Sentiment Analysis and DeepL Translation Implementation](https://news-app-with-ai-implementation.onrender.com/)**
 * [React-based Web Weather App with Unsplash API implementation and CSS/JS Animations](https://the-vb6enjoyer-weather-app.onrender.com/)**
 * [Angular-based Full-stack Gym Management Web App](https://gimnasio-municipal-de-concordia.onrender.com)*
+* [Buck 'n' Roll, a rhythm game prototype built with TypeScript and PixiJS](https://muxxer.itch.io/buck-n-roll)
 
 *Some backends might be down due to databases being hosted locally on my computer. Contact me if you'd like to see the ones that are down.
 **Some APIs might not function correctly due to maintenance or tokens running out for the month.
