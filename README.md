@@ -13,9 +13,9 @@ Check out some of my projects:
 * [Buck 'n' Roll, a rhythm game prototype built with TypeScript and PixiJS](https://muxxer.itch.io/buck-n-roll)
 * [Partially-completed music database built on PHP](https://rockear.great-site.net/inicio.php) (First website I built)
 
-*Some backends might be down due to databases being hosted locally on my computer. Contact me if you'd like to see the ones that are down.
+* The databases for these websites are down until further notice for security reasons.
 
-**Some APIs might not function correctly due to maintenance or excess token usage.
+** Some APIs might not function correctly due to deprecation, maintenance or excess token usage.
 <!---
 VB6Enjoyer/VB6Enjoyer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
