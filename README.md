@@ -9,7 +9,7 @@ Check out some of my projects:
 * [Basic Ionic-based Full-stack Android App](https://uner-desarrollo-para-moviles-tp-final-1.onrender.com/)*
 * [React-based Web News App with AI-powered Sentiment Analysis and DeepL Translation Implementation](https://news-app-with-ai-implementation.onrender.com/)**
 * [React-based Web Weather App with Unsplash API implementation and CSS/JS Animations](https://the-vb6enjoyer-weather-app.onrender.com/)**
-* [Angular-based Full-stack Gym Management Web App](https://gimnasio-municipal-de-concordia.onrender.com)* (Use credentials lionelmessi10 / ArgentinaCampeon)
+* [Angular-based Full-stack Gym Management Web App](https://gimnasio-municipal-de-concordia.onrender.com)*
 * [Buck 'n' Roll, a rhythm game prototype built with TypeScript and PixiJS](https://muxxer.itch.io/buck-n-roll)
 * [Partially-completed music database built on PHP](https://rockear.great-site.net/inicio.php) (First website I built)
 
