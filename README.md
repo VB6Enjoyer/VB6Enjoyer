@@ -13,7 +13,7 @@ Check out some of my projects:
 * [Buck 'n' Roll, a rhythm game prototype built with TypeScript and PixiJS](https://muxxer.itch.io/buck-n-roll)
 * [Partially-completed music database built on PHP](https://rockear.great-site.net/inicio.php) (First website I built)
 
-* The databases for these websites are down until further notice for security reasons.
+*The databases for these websites are down until further notice for security reasons.
 
 ** Some APIs might not function correctly due to deprecation, maintenance or excess token usage.
 <!---
