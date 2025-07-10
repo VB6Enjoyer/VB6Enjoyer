@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VB6Enjoyer
 - 👀 I’m interested in music, videogames, economics and other nerdy things.
-- 🌱 I’ve got two technical degrees, and my current stack includes TypeScript, JavaScript, Node.js, NestJS, MySQL, Angular and React.
-- 🎮 I like coding vidya, scripts and fun websites.
+- 🌱 I’ve got two technical degrees, and my current stack includes TypeScript, JavaScript, Node.js, NestJS, MySQL, Angular, React and Vue.
+- 🎮 I like coding vidya, scripts, interactive websites and Electron-based desktop apps.
 - 📫 How to reach me: w3ceu5chx@mozmail.com
 
 Check out some of my projects:
